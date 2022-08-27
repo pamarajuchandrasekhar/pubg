@@ -2,6 +2,7 @@ package pub;
 
 /**
  * Hello world!
+ * Welcome!
  *
  */
 public class App 
